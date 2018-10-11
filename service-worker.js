@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/lim-2018-01-lab-songs-frameworks/precache-manifest.7502e502a82e3f78cf754c7677d51f58.js"
+  "/lim-2018-01-todo-list-frameworks/precache-manifest.6842b2fc795eb91a0014e30eea6792ab.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/lim-2018-01-lab-songs-frameworks/index.html", {
+workbox.routing.registerNavigationRoute("/lim-2018-01-todo-list-frameworks/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
