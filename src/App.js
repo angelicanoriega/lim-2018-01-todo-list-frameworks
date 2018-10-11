@@ -76,7 +76,7 @@ class App extends Component {
       <div className="App">
 
         <nav className="navbar navbar-dark bg-warning">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" >
             Lista de Cocina
             <span className="badge badge-pill badge-light ml-2">
               {this.state.todos.length}
