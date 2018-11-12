@@ -91,8 +91,8 @@ class App extends Component {
               <Form onAddTodo={this.upList}></Form>
             </div>
 
-            <div className="col-md-12">
-              <div className="row">
+            <div className="col-md-12 d-flex justify-content-center align-items-center mt-3">
+              <div className="row cuadro">
                 {todos}
               </div>
             </div>
