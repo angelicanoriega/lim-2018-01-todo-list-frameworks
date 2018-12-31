@@ -1,5 +1,9 @@
 ## Todo List
 
-Es una pagina web movile capaz de crear, eliminar  y compltar una lista.
-![laptod](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/2000px-Caesar3.svg.png)
-![celular](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/2000px-Caesar3.svg.png)
+Es una pagina web movile capaz de crear, eliminar y completar la tarea creada en la lista.
+
+Vista Deskot
+![laptod](https://raw.githubusercontent.com/angelicanoriega/lim-2018-01-todo-list-frameworks/master/imgReadme/inicio.PNG)
+
+Vista movile
+![celular](https://raw.githubusercontent.com/angelicanoriega/lim-2018-01-todo-list-frameworks/master/imgReadme/movile.PNG)
